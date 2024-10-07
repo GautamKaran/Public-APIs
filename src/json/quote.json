@@ -1,0 +1,494 @@
+[
+  {
+    "id": 1,
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge."
+  },
+  {
+    "id": 2,
+    "author": "Mark Twain",
+    "quote": "The secret of getting ahead is getting started."
+  },
+  {
+    "id": 3,
+    "author": "Mahatma Gandhi",
+    "quote": "Be the change that you wish to see in the world."
+  },
+  {
+    "id": 4,
+    "author": "Oscar Wilde",
+    "quote": "Be yourself; everyone else is already taken."
+  },
+  {
+    "id": 5,
+    "author": "Maya Angelou",
+    "quote": "You will face many defeats in life, but never let yourself be defeated."
+  },
+  {
+    "id": 6,
+    "author": "J.K. Rowling",
+    "quote": "It is our choices that show what we truly are, far more than our abilities."
+  },
+  {
+    "id": 7,
+    "author": "Nelson Mandela",
+    "quote": "It always seems impossible until it's done."
+  },
+  {
+    "id": 8,
+    "author": "Stephen King",
+    "quote": "Get busy living, or get busy dying."
+  },
+  {
+    "id": 9,
+    "author": "Friedrich Nietzsche",
+    "quote": "That which does not kill us makes us stronger."
+  },
+  {
+    "id": 10,
+    "author": "William Shakespeare",
+    "quote": "Some are born great, some achieve greatness, and some have greatness thrust upon them."
+  },
+  {
+    "id": 11,
+    "author": "George Bernard Shaw",
+    "quote": "Life isn't about finding yourself. Life is about creating yourself."
+  },
+  {
+    "id": 12,
+    "author": "Jane Austen",
+    "quote": "There is no charm equal to tenderness of heart."
+  },
+  {
+    "id": 13,
+    "author": "John Steinbeck",
+    "quote": "And now that you don't have to be perfect, you can be good."
+  },
+  {
+    "id": 14,
+    "author": "Toni Morrison",
+    "quote": "If there's a book that you want to read, but it hasn't been written yet, then you must write it."
+  },
+  {
+    "id": 15,
+    "author": "Haruki Murakami",
+    "quote": "Pain is inevitable. Suffering is optional."
+  },
+  {
+    "id": 16,
+    "author": "Virginia Woolf",
+    "quote": "A woman must have money and a room of her own if she is to write fiction."
+  },
+  {
+    "id": 17,
+    "author": "Leo Tolstoy",
+    "quote": "Everyone thinks of changing the world, but no one thinks of changing himself."
+  },
+  {
+    "id": 18,
+    "author": "Paulo Coelho",
+    "quote": "When you want something, all the universe conspires in helping you to achieve it."
+  },
+  {
+    "id": 19,
+    "author": "Charles Dickens",
+    "quote": "It was the best of times, it was the worst of times."
+  },
+  {
+    "id": 20,
+    "author": "George Orwell",
+    "quote": "In a time of deceit, telling the truth is a revolutionary act."
+  },
+  {
+    "id": 21,
+    "author": "Gabriel Garcia Marquez",
+    "quote": "What matters in life is not what happens to you but what you remember and how you remember it."
+  },
+  {
+    "id": 22,
+    "author": "Harper Lee",
+    "quote": "You never really understand a person until you consider things from his point of view."
+  },
+  {
+    "id": 23,
+    "author": "Ernest Hemingway",
+    "quote": "Courage is grace under pressure."
+  },
+  {
+    "id": 24,
+    "author": "Ralph Waldo Emerson",
+    "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+  },
+  {
+    "id": 25,
+    "author": "Hermann Hesse",
+    "quote": "Some of us think holding on makes us strong, but sometimes it is letting go."
+  },
+  {
+    "id": 26,
+    "author": "J.R.R. Tolkien",
+    "quote": "Not all those who wander are lost."
+  },
+  {
+    "id": 27,
+    "author": "Dr. Seuss",
+    "quote": "Don't cry because it's over, smile because it happened."
+  },
+  {
+    "id": 28,
+    "author": "Lewis Carroll",
+    "quote": "It's no use going back to yesterday, because I was a different person then."
+  },
+  {
+    "id": 29,
+    "author": "Fyodor Dostoevsky",
+    "quote": "The darker the night, the brighter the stars."
+  },
+  {
+    "id": 30,
+    "author": "Kurt Vonnegut",
+    "quote": "We are what we pretend to be, so we must be careful about what we pretend to be."
+  },
+  {
+    "id": 31,
+    "author": "Ray Bradbury",
+    "quote": "You don’t have to burn books to destroy a culture. Just get people to stop reading them."
+  },
+  {
+    "id": 32,
+    "author": "Marcel Proust",
+    "quote": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."
+  },
+  {
+    "id": 33,
+    "author": "Ayn Rand",
+    "quote": "The question isn't who is going to let me; it's who is going to stop me."
+  },
+  {
+    "id": 34,
+    "author": "Margaret Atwood",
+    "quote": "In the end, we'll all become stories."
+  },
+  {
+    "id": 35,
+    "author": "Alice Walker",
+    "quote": "The most common way people give up their power is by thinking they don't have any."
+  },
+  {
+    "id": 36,
+    "author": "Sylvia Plath",
+    "quote": "The worst enemy to creativity is self-doubt."
+  },
+  {
+    "id": 37,
+    "author": "Emily Dickinson",
+    "quote": "Forever is composed of nows."
+  },
+  {
+    "id": 38,
+    "author": "Elie Wiesel",
+    "quote": "The opposite of love is not hate, it's indifference."
+  },
+  {
+    "id": 39,
+    "author": "James Joyce",
+    "quote": "Mistakes are the portals of discovery."
+  },
+  {
+    "id": 40,
+    "author": "Victor Hugo",
+    "quote": "Even the darkest night will end and the sun will rise."
+  },
+  {
+    "id": 41,
+    "author": "Rumi",
+    "quote": "The wound is the place where the Light enters you."
+  },
+  { "id": 42, "author": "Jack Kerouac", "quote": "The only truth is music." },
+  {
+    "id": 43,
+    "author": "Charles Bukowski",
+    "quote": "Find what you love and let it kill you."
+  },
+  {
+    "id": 44,
+    "author": "Franz Kafka",
+    "quote": "A non-writing writer is a monster courting insanity."
+  },
+  {
+    "id": 45,
+    "author": "Simone de Beauvoir",
+    "quote": "Change your life today. Don’t gamble on the future, act now, without delay."
+  },
+  {
+    "id": 46,
+    "author": "Roald Dahl",
+    "quote": "Those who don't believe in magic will never find it."
+  },
+  {
+    "id": 47,
+    "author": "Anne Frank",
+    "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world."
+  },
+  {
+    "id": 48,
+    "author": "Edgar Allan Poe",
+    "quote": "All that we see or seem is but a dream within a dream."
+  },
+  {
+    "id": 49,
+    "author": "T.S. Eliot",
+    "quote": "For last year's words belong to last year's language. And next year's words await another voice."
+  },
+  {
+    "id": 50,
+    "author": "Nathaniel Hawthorne",
+    "quote": "Easy reading is damn hard writing."
+  },
+  {
+    "id": 51,
+    "author": "James Baldwin",
+    "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced."
+  },
+  {
+    "id": 52,
+    "author": "Milan Kundera",
+    "quote": "The struggle of man against power is the struggle of memory against forgetting."
+  },
+  {
+    "id": 53,
+    "author": "C.S. Lewis",
+    "quote": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "id": 54,
+    "author": "Isabel Allende",
+    "quote": "There is no death, daughter. People die only when we forget them."
+  },
+  {
+    "id": 55,
+    "author": "Douglas Adams",
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by."
+  },
+  {
+    "id": 56,
+    "author": "Truman Capote",
+    "quote": "Failure is the condiment that gives success its flavor."
+  },
+  {
+    "id": 57,
+    "author": "Willa Cather",
+    "quote": "There are some things you learn best in calm, and some in storm."
+  },
+  {
+    "id": 58,
+    "author": "E.M. Forster",
+    "quote": "We must be willing to let go of the life we have planned, so as to have the life that is waiting for us."
+  },
+  {
+    "id": 59,
+    "author": "Vladimir Nabokov",
+    "quote": "The breaking of a wave cannot explain the whole sea."
+  },
+  {
+    "id": 60,
+    "author": "Zora Neale Hurston",
+    "quote": "There are years that ask questions and years that answer."
+  },
+  {
+    "id": 61,
+    "author": "H.G. Wells",
+    "quote": "If we don’t end war, war will end us."
+  },
+  {
+    "id": 62,
+    "author": "Agatha Christie",
+    "quote": "The best time for planning a book is while you’re doing the dishes."
+  },
+  {
+    "id": 63,
+    "author": "Salman Rushdie",
+    "quote": "What is freedom of expression? Without the freedom to offend, it ceases to exist."
+  },
+  {
+    "id": 64,
+    "author": "J.D. Salinger",
+    "quote": "People always think something's all true."
+  },
+  {
+    "id": 65,
+    "author": "Aldous Huxley",
+    "quote": "Experience is not what happens to you; it's what you do with what happens to you."
+  },
+  {
+    "id": 66,
+    "author": "P.G. Wodehouse",
+    "quote": "To find a man's true character, play golf with him."
+  },
+  {
+    "id": 67,
+    "author": "John Green",
+    "quote": "The marks humans leave are too often scars."
+  },
+  {
+    "id": 68,
+    "author": "G.K. Chesterton",
+    "quote": "Angels can fly because they take themselves lightly."
+  },
+  {
+    "id": 69,
+    "author": "Chinua Achebe",
+    "quote": "The sun will shine on those who stand before it shines on those who kneel under them."
+  },
+  {
+    "id": 70,
+    "author": "Kahlil Gibran",
+    "quote": "You give but little when you give of your possessions. It is when you give of yourself that you truly give."
+  },
+  {
+    "id": 71,
+    "author": "Henry James",
+    "quote": "It’s time to start living the life you’ve imagined."
+  },
+  {
+    "id": 72,
+    "author": "William Faulkner",
+    "quote": "The past is never dead. It's not even past."
+  },
+  {
+    "id": 73,
+    "author": "Margaret Mitchell",
+    "quote": "Life's under no obligation to give us what we expect."
+  },
+  {
+    "id": 74,
+    "author": "John Milton",
+    "quote": "The mind is its own place, and in itself can make a heaven of hell, a hell of heaven."
+  },
+  {
+    "id": 75,
+    "author": "W.B. Yeats",
+    "quote": "Education is not the filling of a pail, but the lighting of a fire."
+  },
+  {
+    "id": 76,
+    "author": "Philip K. Dick",
+    "quote": "Reality is that which, when you stop believing in it, doesn't go away."
+  },
+  {
+    "id": 77,
+    "author": "Mitch Albom",
+    "quote": "Death ends a life, not a relationship."
+  },
+  {
+    "id": 78,
+    "author": "Michael Ondaatje",
+    "quote": "The heart is an organ of fire."
+  },
+  {
+    "id": 79,
+    "author": "Dante Alighieri",
+    "quote": "The darkest places in hell are reserved for those who maintain their neutrality in times of moral crisis."
+  },
+  {
+    "id": 80,
+    "author": "George Eliot",
+    "quote": "It is never too late to be what you might have been."
+  },
+  {
+    "id": 81,
+    "author": "Joseph Conrad",
+    "quote": "Facing it, always facing it, that's the way to get through."
+  },
+  { "id": 82, "author": "Kurt Vonnegut", "quote": "So it goes." },
+  {
+    "id": 83,
+    "author": "Anaïs Nin",
+    "quote": "We don’t see things as they are, we see them as we are."
+  },
+  {
+    "id": 84,
+    "author": "F. Scott Fitzgerald",
+    "quote": "Show me a hero, and I'll write you a tragedy."
+  },
+  {
+    "id": 85,
+    "author": "Emily Brontë",
+    "quote": "Whatever our souls are made of, his and mine are the same."
+  },
+  {
+    "id": 86,
+    "author": "Charlotte Brontë",
+    "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will."
+  },
+  {
+    "id": 87,
+    "author": "Tennessee Williams",
+    "quote": "Time is the longest distance between two places."
+  },
+  {
+    "id": 88,
+    "author": "Joseph Heller",
+    "quote": "Just because you're paranoid doesn't mean they aren't after you."
+  },
+  {
+    "id": 89,
+    "author": "Arthur Conan Doyle",
+    "quote": "When you have eliminated the impossible, whatever remains, however improbable, must be the truth."
+  },
+  {
+    "id": 90,
+    "author": "Homer",
+    "quote": "There is a time for many words, and there is also a time for sleep."
+  },
+  {
+    "id": 91,
+    "author": "Oscar Wilde",
+    "quote": "Experience is simply the name we give our mistakes."
+  },
+  {
+    "id": 92,
+    "author": "Leo Tolstoy",
+    "quote": "All happy families are alike; each unhappy family is unhappy in its own way."
+  },
+  {
+    "id": 93,
+    "author": "Robert Louis Stevenson",
+    "quote": "Life is not a matter of holding good cards, but of playing a poor hand well."
+  },
+  {
+    "id": 94,
+    "author": "J.D. Salinger",
+    "quote": "People always clap for the wrong reasons."
+  },
+  {
+    "id": 95,
+    "author": "Henry David Thoreau",
+    "quote": "Go confidently in the direction of your dreams. Live the life you have imagined."
+  },
+  {
+    "id": 96,
+    "author": "Charles Baudelaire",
+    "quote": "A multitude of small delights constitute happiness."
+  },
+  {
+    "id": 97,
+    "author": "Mark Twain",
+    "quote": "The reports of my death have been greatly exaggerated."
+  },
+  {
+    "id": 98,
+    "author": "Emily Dickinson",
+    "quote": "Hope is the thing with feathers that perches in the soul."
+  },
+  {
+    "id": 99,
+    "author": "Rainer Maria Rilke",
+    "quote": "Let everything happen to you: beauty and terror. Just keep going. No feeling is final."
+  },
+  {
+    "id": 100,
+    "author": "George Orwell",
+    "quote": "Who controls the past controls the future. Who controls the present controls the past."
+  }
+]

@@ -18,8 +18,10 @@ app.use(express.static("public"));
 
 // routes import
 import healthCheckRoutes from "./routes/healthcheck.routes.js";
+import qouteRoutes from "./routes/quote.routes.js"
 
 // routes declaration
 app.use("/api/v1/healthcheck", healthCheckRoutes);
+app.use("/api/v1/qoute", qouteRoutes)
 
 export default app;
